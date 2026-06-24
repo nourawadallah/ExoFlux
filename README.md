@@ -1,6 +1,6 @@
 # ExoFlux
 
-Status: Under Development
+[![Status](https://img.shields.io/badge/status-under--development-orange.svg)]()
 
 ExoFlux is a deep learning project focused on time-series and sequential data analysis. The project is currently active and in an ongoing development phase.
 
