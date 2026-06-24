@@ -1,8 +1,8 @@
 # ExoFlux
 
-[![Status](https://img.shields.io/badge/status-under--development-orange.svg)]()
+Status: Under Development
 
-ExoFlux is a deep learning project focused on time-series and sequential data analysis. The project is currently active and in an ongoing development phase.
+ExoFlux is an exoplanet detection pipeline designed to analyze stellar light curves for planetary transits. The project utilizes deep learning to identify the subtle dipping of a star's brightness caused by an orbiting planet passing in front of it. The project is currently active and in an ongoing development phase.
 
 ## Dataset
 
