@@ -17,6 +17,4 @@ The latest iteration of the 1D-CNN model has achieved the following metrics on t
 * ROC-AUC : 0.9193
 * PR-AUC : 0.9438
 
-> Current development is focused on optimising the architecture with the goal of reaching ~90% accuracy.
-
 Note: As this project is actively being developed, all metrics and implementations are subject to change.
