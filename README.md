@@ -2,7 +2,7 @@
 
 Status: Under Development
 
-ExoFlux is an exoplanet detection pipeline designed to analyze stellar light curves for planetary transits. The project utilizes deep learning to identify the subtle dipping of a star's brightness caused by an orbiting planet passing in front of it. The project is currently active and in an ongoing development phase.
+ExoFlux is an exoplanet detection pipeline designed to analyse stellar light curves for planetary transits. The project utilises deep learning to identify the subtle dipping of a star's brightness caused by an orbiting planet passing in front of it. The project is currently active and in an ongoing development phase.
 
 ## Dataset
 
